@@ -1,0 +1,2 @@
+POLARIN_USERNAME =	'username'
+POLARIN_PASSWORD =	'password'

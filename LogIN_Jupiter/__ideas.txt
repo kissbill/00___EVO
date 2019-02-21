@@ -1,0 +1,6 @@
+osztalyt letre hozni
+	parameterrel
+
+folder-be a kepeket
+	kep1 = eleresi utvonal
+	.....
